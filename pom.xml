@@ -93,4 +93,10 @@
         </plugins>
     </build>
 
+<<<<<<< HEAD
 </project>
+=======
+
+</project>
+
+>>>>>>> 6bcb9f4 (Fix package structure and compilation errors)
