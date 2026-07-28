@@ -74,4 +74,8 @@
         </plugins>
     </build>
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> ccd7108 (Update pom.xml)
